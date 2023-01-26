@@ -25,4 +25,4 @@ console.warn(result);
 
 // Nodemon
 // helps in runing the coding in live-time
-// by pressing ctrl+S code will be asscicute
+// by pressing ctrl+S code will be execute

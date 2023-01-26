@@ -18,9 +18,9 @@
 // JavaScript and Node js Code Syntax is Same
 // If you Know javaScript you can easily understand Node
 // But both are not exactly the same
-// you can not connect javaScript to DB
+// you can not connect javaScript to DB(DataBase)
 // Node can connect with DB
-// Node js run on the server side and JavaScript is run on the Browser
+// Node js run on the server side and JavaScript is run on the Client-side (Browser)
 
 // What developer Make with Node js>
 // Developer Make API with Node js

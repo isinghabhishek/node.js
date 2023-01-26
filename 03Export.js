@@ -9,7 +9,7 @@ module.exports={
 }
 
 // Core Module are global.
-// core modules can acces witout import them
+// core modules can access without import them
 
 // Non-core Module are local.
 // we need to import non-core modules

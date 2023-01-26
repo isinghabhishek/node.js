@@ -6,4 +6,4 @@ const data = [
     {name:'Abhishek ', email:'abhishek@singh.com'},
     {name:'AbhiSingh', email:'abhishek@singh.com'}
 ]
-module.exports=data;
+export default data;
