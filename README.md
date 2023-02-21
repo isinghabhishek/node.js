@@ -1,7 +1,10 @@
-# NodeJS-Learning
-This repo contains all my learning related to NodeJS, ExpressJS and MongoDB.
+# NodeJS Learning
+Node.js is an open source server environment.
+Node.js is free.
+Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).
+Node.js uses JavaScript on the server.
 
-What si Node js and course Introduction
+# Topics
 - Basic theory of node js 
 - Installation and setup
 - First script program with node js 
