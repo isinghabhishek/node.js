@@ -4,17 +4,17 @@ Node.js is free.
 Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).
 Node.js uses JavaScript on the server.
 
-# Topics
-- Basic theory of node js 
+# Topics Coverd
+- Basic theory of Node js 
 - Installation and setup
-- First script program with node js 
-- Fundaments of node js 
+- First script program with Node js 
+- Fundaments of Node js 
 - Core module in Node js 
-- Make basic server in node js
-- What is the package.json file and use in node js
+- Make basic server in Node js
+- What is the package.json file and use in Node js
 - Small challenge for you
-- What is Nodemon in node js
-- Make Simple API in node js
+- What is Nodemon in Node js
+- Make Simple API in Node js
 - Input from command line 
 - Show file List with file system
 - Curd with file system
@@ -23,8 +23,8 @@ Node.js uses JavaScript on the server.
 - How Node js Works
 - Express js Introduction
 - Routing with express js
-- Render html in node js 
-- Make HTML pages in node js 
+- Render html in Node js 
+- Make HTML pages in Node js 
 - Remove file extension  
 - Template Engine ejs
 - Dynamic page in node js 
